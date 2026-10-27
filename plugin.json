@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "runa",
+  "version": "1.0.0",
+  "description": "Bring your Runa meetings into Hermes: prepare for what's next, recap what was decided and who owes what, draft the follow-up, and find exactly what was said.",
+  "author": {
+    "name": "Runa Labs Inc.",
+    "url": "https://www.joinruna.com"
+  },
+  "homepage": "https://www.joinruna.com",
+  "repository": "https://github.com/Runa-Labs-Inc/runa-hermes-plugin",
+  "license": "MIT",
+  "keywords": ["meetings", "transcripts", "meeting-prep", "action-items", "follow-up", "mcp"]
+}
